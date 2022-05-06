@@ -1,0 +1,54 @@
+.cards{
+    background-color: #dad8d8;
+    
+}
+.cards .flashcard{
+   background-color: white;
+   padding:2% 3%;
+   margin:1% 0 ;
+   border-radius:4px;
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.validity{
+    color:#6b6a6a
+}
+.validity i{
+    color:black;
+    font-weight:500;
+}
+.description{
+    color:grey;
+    font-size:19px;
+}
+.details{
+    background-color: white;
+    border:none;
+    color:#00A47D;
+    font-weight: 500;
+    display:block;
+    margin-left: auto;
+
+}
+.arrow {
+    border: solid #00A47D ;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-bottom:3px;
+  }
+  .down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+  }
+  hr {
+    border:none;
+    border-top:2px dotted grey; 
+    color:#fff;
+    background-color:#fff;
+    height:1px;
+    width:100%;
+  }
+  .extra p{
+      color: rgb(3, 3, 245);
+  }

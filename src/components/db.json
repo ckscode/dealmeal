@@ -1,0 +1,59 @@
+[{
+    "id":"0",
+    "type":"coupon",
+    "title":"Rs.200 OFF",
+    "description":"boAt Watch Blaze Offer - Up To 50% Off + Extra Flat Rs 200 Off",
+    "validity":"Sat May 14 2022",
+    "details":"1. Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/> 2.Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br> 3. when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+   
+},
+{
+    "id":"1",
+    "type":"coupon",
+    "title":"10% OFF",
+    "description":"Sound That Matters Sale - Up To 80% Off + Extra 10% Off",
+    "validity":"Sat May 21 2022" 
+},
+{
+    "id":"2",
+    "type":"coupon",
+    "title":"15% OFF",
+    "description":"Sail With boAt Sale - Flat 15% Off + Extra 20% Cashback | All Users",
+    "validity":"Sat May 07 2022" 
+},
+{
+    "id":"3",
+    "type":"coupon",
+    "title":"70% OFF",
+    "description":"Up To 70% OFF + 10% OFF On Misfit - Personal Grooming for Men",
+    "validity":"Sat May 31 2022" 
+},
+{
+    "id":"4",
+    "type":"offers",
+    "title":"10% OFF",
+    "description":"Up To 60% Off + Flat 10% Cashback Using Ola Money | All Users",
+    "validity":"Sat jun 30 2022" 
+},
+{
+    "id":"5",
+    "type":"offers",
+    "title":"58% OFF",
+    "description":"Boat Immortal 1000D - Save 58% Off",
+    "validity":"Sat May 31 2022" 
+},
+{
+    "id":"6",
+    "type":"offers",
+    "title":"20% Cashback",
+    "description":"Pay With Rewards - Get 20% Cashback On All Products",
+    "validity":"Sat May 29 2022" 
+},
+{
+    "id":"7",
+    "type":"offers",
+    "title":"70% OFF",
+    "description":"Boat Sale Fest - Get Up To 70% Off On Your Purchase",
+    "validity":"Sat May 14 2022" 
+}
+]

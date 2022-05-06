@@ -1,0 +1,33 @@
+.page{
+    background-color:#00A47D;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.pgimage{
+    width:380px;
+    margin-top:2%;
+    border-radius:10px ;
+    position:absolute;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+ .page button{
+   background-color:#00A47D;
+   color:white;
+   border:white solid 1px;
+   text-align: center;
+   width:180px;
+   height:40px;
+   font-weight: 500;
+}
+.page button:focus,.page button:focus-within{
+    background-color:white;
+    color:#00A47D;
+}
+.page button:first-child{
+    border-radius:4px 0 0 4px;
+    border-right: 0;
+}
+.page button:last-child{
+    border-radius:0 4px 4px 0;
+    border-left: 0;
+}

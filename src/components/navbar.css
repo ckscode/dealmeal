@@ -1,0 +1,73 @@
+
+.logo{
+  width:40%;
+}
+.navbar-brand{
+    width:30%;
+}
+.navbar{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.form-control,.btn{
+    background-color: #EFEFEF;
+    border-radius: 0;
+    border:none;
+    padding:3% 5%;
+    color:#212529;
+    
+}
+.form-control{
+    width:350px;
+}
+.btn-primary:hover{
+    background-color: #EFEFEF;
+    color:#212529;
+}
+.nav-link{
+    font-size:medium;
+    font-weight: 600;
+    margin-left:2em;
+    color:black;
+}
+.bodypage{
+    height:200vh;
+     text-align: center;
+}
+.bodypage input,.bodypage button{
+    margin-top: 350px;
+    background-color: #EFEFEF;
+    border-radius: 0;
+    padding:10px 20px;
+    border:none;
+    color:#212529;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.bodypage button{
+    box-shadow: rgba(0, 0, 0, 0.24) 2px 3px 8px; 
+}
+
+.para{
+    margin-left:100px;
+    margin-top:4px
+}
+.navsearch .form-control{
+    background-color: #EFEFEF;
+    border-radius: 0;
+    border:none;
+    width: 240px;
+    padding:3% 5%;
+    color:#212529;
+    margin-left:105px;
+    
+}
+.navsearch button{
+    background-color: #EFEFEF;
+    border-radius: 0;
+    border:none;
+    padding:3% 5%;
+    color:#212529;
+    margin-left:-1;
+}
