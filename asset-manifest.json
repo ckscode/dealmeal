@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dealmela/static/css/main.6e957f59.css",
+    "main.js": "/dealmela/static/js/main.de61c11e.js",
+    "static/media/boat.png": "/dealmela/static/media/boat.b0f1ebfb563ea5fa4e96.png",
+    "index.html": "/dealmela/index.html",
+    "main.6e957f59.css.map": "/dealmela/static/css/main.6e957f59.css.map",
+    "main.de61c11e.js.map": "/dealmela/static/js/main.de61c11e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e957f59.css",
+    "static/js/main.de61c11e.js"
+  ]
+}
